@@ -14,6 +14,7 @@ namespace QL_Xe
         /// </summary>
         /// Mong là được
         /// Chắc là được
+        /// Thử đẩy lên
         [STAThread]
         static void Main()
         {
