@@ -105,7 +105,7 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel1.Location = new System.Drawing.Point(0, 57);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1014, 524);
+            this.panel1.Size = new System.Drawing.Size(1014, 596);
             this.panel1.TabIndex = 1;
             // 
             // panel7
@@ -117,7 +117,7 @@
             this.panel7.Font = new System.Drawing.Font("Constantia", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.panel7.Location = new System.Drawing.Point(457, 0);
             this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(557, 524);
+            this.panel7.Size = new System.Drawing.Size(557, 596);
             this.panel7.TabIndex = 11;
             // 
             // panel6
@@ -128,7 +128,7 @@
             this.panel6.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel6.Location = new System.Drawing.Point(0, 145);
             this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(557, 379);
+            this.panel6.Size = new System.Drawing.Size(557, 451);
             this.panel6.TabIndex = 21;
             // 
             // panel_DichVu
@@ -355,7 +355,7 @@
             this.panel4.Font = new System.Drawing.Font("Constantia", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.panel4.Location = new System.Drawing.Point(0, 0);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(433, 524);
+            this.panel4.Size = new System.Drawing.Size(433, 596);
             this.panel4.TabIndex = 9;
             // 
             // panel8
@@ -376,13 +376,13 @@
             this.panel8.Font = new System.Drawing.Font("Constantia", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.panel8.Location = new System.Drawing.Point(132, 0);
             this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(301, 524);
+            this.panel8.Size = new System.Drawing.Size(301, 596);
             this.panel8.TabIndex = 10;
             // 
             // button_Xong
             // 
             this.button_Xong.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button_Xong.Location = new System.Drawing.Point(212, 422);
+            this.button_Xong.Location = new System.Drawing.Point(65, 461);
             this.button_Xong.Name = "button_Xong";
             this.button_Xong.Size = new System.Drawing.Size(81, 39);
             this.button_Xong.TabIndex = 26;
@@ -403,11 +403,10 @@
             // 
             // button_Upload_Pic
             // 
-            this.button_Upload_Pic.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.button_Upload_Pic.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button_Upload_Pic.Font = new System.Drawing.Font("Century Gothic", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_Upload_Pic.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(128)))), ((int)(((byte)(185)))));
-            this.button_Upload_Pic.Location = new System.Drawing.Point(13, 427);
+            this.button_Upload_Pic.Location = new System.Drawing.Point(14, 423);
             this.button_Upload_Pic.Name = "button_Upload_Pic";
             this.button_Upload_Pic.Size = new System.Drawing.Size(192, 32);
             this.button_Upload_Pic.TabIndex = 17;
@@ -495,7 +494,7 @@
             this.panel2.Font = new System.Drawing.Font("Constantia", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.panel2.Location = new System.Drawing.Point(0, 0);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(126, 524);
+            this.panel2.Size = new System.Drawing.Size(126, 596);
             this.panel2.TabIndex = 9;
             // 
             // label11
@@ -600,7 +599,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1014, 581);
+            this.ClientSize = new System.Drawing.Size(1014, 653);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panel_Header);
             this.Name = "Gui_Xe";

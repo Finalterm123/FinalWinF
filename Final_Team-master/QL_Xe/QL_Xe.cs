@@ -10,7 +10,7 @@ namespace QL_Xe
 {
     internal class QL_Xe
     {
-        private SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-NC3S3Q0\SQLEXPRESS;Initial Catalog=QL_Xe;Integrated Security=True");
+        private SqlConnection con = new SqlConnection(@"Data Source = (localdb)\MSSQLLocalDB; Initial Catalog = QL_Xe;Integrated Security=True");
 
 
         public SqlConnection getConnection

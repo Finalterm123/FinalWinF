@@ -114,7 +114,7 @@
             this.panel_Side_Menu.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.panel_Side_Menu.Location = new System.Drawing.Point(0, 0);
             this.panel_Side_Menu.Name = "panel_Side_Menu";
-            this.panel_Side_Menu.Size = new System.Drawing.Size(250, 1055);
+            this.panel_Side_Menu.Size = new System.Drawing.Size(250, 653);
             this.panel_Side_Menu.TabIndex = 0;
             // 
             // panel_KH_Cho_Thue
@@ -872,14 +872,14 @@
             this.panel_Child_Form.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel_Child_Form.Location = new System.Drawing.Point(250, 0);
             this.panel_Child_Form.Name = "panel_Child_Form";
-            this.panel_Child_Form.Size = new System.Drawing.Size(1032, 1055);
+            this.panel_Child_Form.Size = new System.Drawing.Size(1032, 653);
             this.panel_Child_Form.TabIndex = 2;
             // 
             // pictureBox1
             // 
             this.pictureBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.pictureBox1.Image = global::QL_Xe.Properties.Resources.Banh_Xe;
-            this.pictureBox1.Location = new System.Drawing.Point(399, 399);
+            this.pictureBox1.Location = new System.Drawing.Point(399, 198);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(250, 250);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -890,12 +890,12 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1282, 1055);
+            this.ClientSize = new System.Drawing.Size(1282, 653);
             this.Controls.Add(this.panel_Child_Form);
             this.Controls.Add(this.panel_Side_Menu);
             this.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(4);
-            this.MinimumSize = new System.Drawing.Size(1300, 700);
+            this.MinimumSize = new System.Drawing.Size(1032, 700);
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
@@ -924,7 +924,6 @@
 
         private System.Windows.Forms.Panel panel_Side_Menu;
         private System.Windows.Forms.Panel panel_Logo;
-        private System.Windows.Forms.Panel panel_Child_Form;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Panel panel_QL;
         private System.Windows.Forms.Button button_Xe;
@@ -973,6 +972,7 @@
         private System.Windows.Forms.Button button_Xoa_Sua_HD_CT_Cho_Thue;
         private System.Windows.Forms.Button button_Them_HD_CT_Cho_Thue;
         private System.Windows.Forms.Button button_Tao_Acc_4_Tho;
+        internal System.Windows.Forms.Panel panel_Child_Form;
     }
 }
 
