@@ -382,7 +382,7 @@
             // button_Xong
             // 
             this.button_Xong.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button_Xong.Location = new System.Drawing.Point(65, 461);
+            this.button_Xong.Location = new System.Drawing.Point(68, 461);
             this.button_Xong.Name = "button_Xong";
             this.button_Xong.Size = new System.Drawing.Size(81, 39);
             this.button_Xong.TabIndex = 26;
