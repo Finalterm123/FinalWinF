@@ -13,6 +13,7 @@ namespace QL_Xe
         /// The main entry point for the application.
         /// </summary>
         /// Mong là được
+        /// Chắc là được
         [STAThread]
         static void Main()
         {
