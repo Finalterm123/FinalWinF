@@ -1,0 +1,125 @@
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\bin\Debug\QL_Xe.exe.config
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\bin\Debug\QL_Xe.exe
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\bin\Debug\QL_Xe.pdb
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.csproj.AssemblyReference.cache
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.csproj.SuggestedBindingRedirects.cache
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Properties.Resources.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.csproj.GenerateResource.cache
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.csproj.CoreCompileInputs.cache
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.exe
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.pdb
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.TrongCoiXe.Gui_Xe.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Xe.Them_Xe.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Login_Form.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.MainForm.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Quan_Ly.Them_QL.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Xe.Sua_Xoa_Xe.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Xe.DS_Xe_Tim_Kiem.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Cong_Viec.Them_Cong_Viec.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Cong_Viec.Sua_Xoa_CV.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Cong_Viec.DS_Tim_CV.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Tho.Them_Tho.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Tho.Sua_Xoa_Tho.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\26-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Tho.DS_Tim_Tho.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\bin\Debug\QL_Xe.exe.config
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\bin\Debug\QL_Xe.exe
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\bin\Debug\QL_Xe.pdb
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.csproj.AssemblyReference.cache
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.csproj.SuggestedBindingRedirects.cache
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Cong_Viec.DS_Tim_CV.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Cong_Viec.Sua_Xoa_CV.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Cong_Viec.Them_Cong_Viec.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Login_Form.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.MainForm.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Properties.Resources.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Quan_Ly.Them_QL.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Tho.DS_Tim_Tho.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Tho.Sua_Xoa_Tho.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Tho.Them_Tho.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.TrongCoiXe.Gui_Xe.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Xe.DS_Xe_Tim_Kiem.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Xe.Sua_Xoa_Xe.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Xe.Them_Xe.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.csproj.GenerateResource.cache
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.csproj.CoreCompileInputs.cache
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.exe
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.pdb
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Chuyen_Mon.Them_Chuyen_Mon.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Chuyen_Mon.DS_Xoa_CM.resources
+C:\Users\tu\OneDrive - hcmute.edu.vn\HK2-2\Lap_Trinh_Tren_Window\Do_An_Cuoi_ky\CK\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Create_Account.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\bin\Debug\QL_Xe.exe.config
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\bin\Debug\QL_Xe.exe
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\bin\Debug\QL_Xe.pdb
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Chuyen_Mon.DS_Xoa_CM.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Chuyen_Mon.Them_Chuyen_Mon.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Cong_Viec.DS_Tim_CV.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Cong_Viec.Sua_Xoa_CV.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Cong_Viec.Them_Cong_Viec.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Create_Account.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.HD_CT_Cho_Thue.DS_HD_CT_Cho_Thue.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.HD_CT_Cho_Thue.Them_HD_CT_Cho_Thue.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.HD_CT_Cho_Thue.Xoa_Sua_HD_CT_Cho_Thue.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.HD_KH_Cho_Thue.DS_HD_KH_Cho_Thue.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.HD_KH_Cho_Thue.Them_HD_KH_Cho_Thue.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.HD_KH_Cho_Thue.Xoa_Sua_HD_KH_Cho_Thue.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.HD_KH_Thue_Xe.DS_HD_KH_Thue.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.HD_KH_Thue_Xe.Them_HD_KH_Thue.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.HD_KH_Thue_Xe.Xoa_Sua_HD_KH_Thue.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Login_Form.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.MainForm.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Properties.Resources.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Quan_Ly.Them_QL.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Tho.DS_Tim_Tho.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Tho.Sua_Xoa_Tho.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Tho.Them_Tho.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.TrongCoiXe.Danh_Sach_Trong_Coi_Xe.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.TrongCoiXe.Doanh_Thu.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.TrongCoiXe.Gui_Xe.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.TrongCoiXe.Tra_Xe.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Xe.DS_Xe_Tim_Kiem.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Xe.Sua_Xoa_Xe.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.Xe.Them_Xe.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.exe
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\29-5\29-5\QL_Xe\QL_Xe\obj\Debug\QL_Xe.pdb
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.Chuyen_Mon.DS_Xoa_CM.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.Chuyen_Mon.Them_Chuyen_Mon.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.Cong_Viec.DS_Tim_CV.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.Cong_Viec.Sua_Xoa_CV.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.Cong_Viec.Them_Cong_Viec.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.Create_Account.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.HD_CT_Cho_Thue.DS_HD_CT_Cho_Thue.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.HD_CT_Cho_Thue.Them_HD_CT_Cho_Thue.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.HD_CT_Cho_Thue.Xoa_Sua_HD_CT_Cho_Thue.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.HD_KH_Cho_Thue.DS_HD_KH_Cho_Thue.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.HD_KH_Cho_Thue.Them_HD_KH_Cho_Thue.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.HD_KH_Cho_Thue.Xoa_Sua_HD_KH_Cho_Thue.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.HD_KH_Thue_Xe.DS_HD_KH_Thue.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.HD_KH_Thue_Xe.Them_HD_KH_Thue.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.HD_KH_Thue_Xe.Xoa_Sua_HD_KH_Thue.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.Login_Form.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.MainForm.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.Properties.Resources.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.Quan_Ly.Them_QL.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.Tho.DS_Tim_Tho.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.Tho.Sua_Xoa_Tho.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.Tho.Them_Tho.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.TrongCoiXe.Danh_Sach_Trong_Coi_Xe.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.TrongCoiXe.Doanh_Thu.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.TrongCoiXe.Gui_Xe.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.TrongCoiXe.Tra_Xe.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.Xe.DS_Xe_Tim_Kiem.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.Xe.Sua_Xoa_Xe.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.Xe.Them_Xe.resources
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.exe
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\obj\Debug\QL_Xe.pdb
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\bin\Debug\QL_Xe.exe.config
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\bin\Debug\QL_Xe.exe
+C:\Users\Dell\Downloads\IT_2\lAPTRINHWIN\FinalWin-main (2)\FinalWin-main\QL_Xe\bin\Debug\QL_Xe.pdb
