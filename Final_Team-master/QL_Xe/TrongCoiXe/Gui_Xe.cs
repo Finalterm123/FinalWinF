@@ -250,7 +250,7 @@ namespace QL_Xe.TrongCoiXe
                 MessageBox.Show("Fail!");
             }
 
-            //load DV
+            //load DV ádasda
             if (count != 0)
             {
                 for (int i = 0; i < count; i++)
