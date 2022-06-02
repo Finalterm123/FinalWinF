@@ -17,6 +17,7 @@ namespace QL_Xe
         /////TÚ ĐÂU RỒI????
         /// Tú đây
         /// Lại là TÚ đây
+        //TRUNG NÈ BẠN!
         static void Main()
         {
             Application.EnableVisualStyles();
