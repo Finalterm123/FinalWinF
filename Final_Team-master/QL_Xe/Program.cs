@@ -14,6 +14,7 @@ namespace QL_Xe
         /// </summary>
         [STAThread]
         /// Không được thì đi về
+        /// //lần này pull đéo được thì cút mẹ m đi
         static void Main()
         {
             Application.EnableVisualStyles();
