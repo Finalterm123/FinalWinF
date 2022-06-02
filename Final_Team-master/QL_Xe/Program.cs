@@ -16,6 +16,7 @@ namespace QL_Xe
         /// Không được thì đi về
         /// //lần này pull đéo được thì cút mẹ m đi
         /// // Nhanh còn về ngủ
+        /// ok chuwa
         static void Main()
         {
             Application.EnableVisualStyles();
