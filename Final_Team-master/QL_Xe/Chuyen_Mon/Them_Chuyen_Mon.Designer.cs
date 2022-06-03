@@ -35,6 +35,9 @@
             this.button_Them = new System.Windows.Forms.Button();
             this.label_Check_ID = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.panel8 = new System.Windows.Forms.Panel();
+            this.comboBox_Loaixe = new System.Windows.Forms.ComboBox();
+            this.label6 = new System.Windows.Forms.Label();
             this.panel7 = new System.Windows.Forms.Panel();
             this.comboBox_CV = new System.Windows.Forms.ComboBox();
             this.label5 = new System.Windows.Forms.Label();
@@ -47,17 +50,18 @@
             this.panel4 = new System.Windows.Forms.Panel();
             this.textBox_ID = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.panel8 = new System.Windows.Forms.Panel();
-            this.label6 = new System.Windows.Forms.Label();
-            this.comboBox_Loaixe = new System.Windows.Forms.ComboBox();
+            this.panel9 = new System.Windows.Forms.Panel();
+            this.textBox_chiPhi = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
+            this.panel8.SuspendLayout();
             this.panel7.SuspendLayout();
             this.panel6.SuspendLayout();
             this.panel5.SuspendLayout();
             this.panel4.SuspendLayout();
-            this.panel8.SuspendLayout();
+            this.panel9.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
@@ -134,6 +138,7 @@
             // panel3
             // 
             this.panel3.BackColor = System.Drawing.Color.White;
+            this.panel3.Controls.Add(this.panel9);
             this.panel3.Controls.Add(this.panel8);
             this.panel3.Controls.Add(this.panel7);
             this.panel3.Controls.Add(this.panel6);
@@ -143,6 +148,33 @@
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(400, 400);
             this.panel3.TabIndex = 0;
+            // 
+            // panel8
+            // 
+            this.panel8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.panel8.Controls.Add(this.comboBox_Loaixe);
+            this.panel8.Controls.Add(this.label6);
+            this.panel8.Location = new System.Drawing.Point(0, 197);
+            this.panel8.Name = "panel8";
+            this.panel8.Size = new System.Drawing.Size(400, 50);
+            this.panel8.TabIndex = 4;
+            // 
+            // comboBox_Loaixe
+            // 
+            this.comboBox_Loaixe.FormattingEnabled = true;
+            this.comboBox_Loaixe.Location = new System.Drawing.Point(145, 9);
+            this.comboBox_Loaixe.Name = "comboBox_Loaixe";
+            this.comboBox_Loaixe.Size = new System.Drawing.Size(237, 33);
+            this.comboBox_Loaixe.TabIndex = 3;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(30, 12);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(89, 25);
+            this.label6.TabIndex = 0;
+            this.label6.Text = "Loại xe:";
             // 
             // panel7
             // 
@@ -177,23 +209,23 @@
             this.panel6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.panel6.Controls.Add(this.textBox_Mo_Ta);
             this.panel6.Controls.Add(this.label4);
-            this.panel6.Location = new System.Drawing.Point(0, 269);
+            this.panel6.Location = new System.Drawing.Point(0, 317);
             this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(400, 128);
+            this.panel6.Size = new System.Drawing.Size(400, 80);
             this.panel6.TabIndex = 2;
             // 
             // textBox_Mo_Ta
             // 
-            this.textBox_Mo_Ta.Location = new System.Drawing.Point(145, 21);
+            this.textBox_Mo_Ta.Location = new System.Drawing.Point(145, 19);
             this.textBox_Mo_Ta.Multiline = true;
             this.textBox_Mo_Ta.Name = "textBox_Mo_Ta";
-            this.textBox_Mo_Ta.Size = new System.Drawing.Size(237, 93);
+            this.textBox_Mo_Ta.Size = new System.Drawing.Size(237, 56);
             this.textBox_Mo_Ta.TabIndex = 3;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(46, 21);
+            this.label4.Location = new System.Drawing.Point(46, 19);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(73, 25);
             this.label4.TabIndex = 2;
@@ -254,32 +286,31 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "ID:";
             // 
-            // panel8
+            // panel9
             // 
-            this.panel8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.panel8.Controls.Add(this.comboBox_Loaixe);
-            this.panel8.Controls.Add(this.label6);
-            this.panel8.Location = new System.Drawing.Point(0, 197);
-            this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(400, 50);
-            this.panel8.TabIndex = 4;
+            this.panel9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.panel9.Controls.Add(this.textBox_chiPhi);
+            this.panel9.Controls.Add(this.label7);
+            this.panel9.Location = new System.Drawing.Point(0, 253);
+            this.panel9.Name = "panel9";
+            this.panel9.Size = new System.Drawing.Size(400, 50);
+            this.panel9.TabIndex = 5;
             // 
-            // label6
+            // textBox_chiPhi
             // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(30, 12);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(89, 25);
-            this.label6.TabIndex = 0;
-            this.label6.Text = "Loại xe:";
+            this.textBox_chiPhi.Location = new System.Drawing.Point(148, 10);
+            this.textBox_chiPhi.Name = "textBox_chiPhi";
+            this.textBox_chiPhi.Size = new System.Drawing.Size(234, 30);
+            this.textBox_chiPhi.TabIndex = 2;
             // 
-            // comboBox_Loaixe
+            // label7
             // 
-            this.comboBox_Loaixe.FormattingEnabled = true;
-            this.comboBox_Loaixe.Location = new System.Drawing.Point(145, 9);
-            this.comboBox_Loaixe.Name = "comboBox_Loaixe";
-            this.comboBox_Loaixe.Size = new System.Drawing.Size(237, 33);
-            this.comboBox_Loaixe.TabIndex = 3;
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(22, 13);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(89, 25);
+            this.label7.TabIndex = 1;
+            this.label7.Text = "Chi Phí:";
             // 
             // Them_Chuyen_Mon
             // 
@@ -298,6 +329,8 @@
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
             this.panel3.ResumeLayout(false);
+            this.panel8.ResumeLayout(false);
+            this.panel8.PerformLayout();
             this.panel7.ResumeLayout(false);
             this.panel7.PerformLayout();
             this.panel6.ResumeLayout(false);
@@ -306,8 +339,8 @@
             this.panel5.PerformLayout();
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
-            this.panel8.ResumeLayout(false);
-            this.panel8.PerformLayout();
+            this.panel9.ResumeLayout(false);
+            this.panel9.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -335,5 +368,8 @@
         private System.Windows.Forms.Panel panel8;
         private System.Windows.Forms.ComboBox comboBox_Loaixe;
         private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Panel panel9;
+        private System.Windows.Forms.TextBox textBox_chiPhi;
+        private System.Windows.Forms.Label label7;
     }
 }

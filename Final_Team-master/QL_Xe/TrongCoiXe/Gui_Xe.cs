@@ -63,7 +63,7 @@ namespace QL_Xe.TrongCoiXe
 
             comboBox_Loai_Xe.Items.Add(new { Text = "Xe Đạp" });
             comboBox_Loai_Xe.Items.Add(new { Text = "Xe Máy" });
-            comboBox_Loai_Xe.Items.Add(new { Text = "Ô Tô" });
+            comboBox_Loai_Xe.Items.Add(new { Text = "Xe Hơi" });
 
             comboBox_LoaiHinhGui.DisplayMember = "Text";
             comboBox_LoaiHinhGui.ValueMember = "Value";
@@ -114,7 +114,7 @@ namespace QL_Xe.TrongCoiXe
                 picCol.ImageLayout = DataGridViewImageCellLayout.Stretch;
 
             }
-            else if (comboBox_Loai_Xe.Text.ToString() == "Ô Tô")
+            else if (comboBox_Loai_Xe.Text.ToString() == "Xe Hơi")
             {
                 dataGridView_chonDV.DataSource = dv.getCurDataDV(comboBox_Loai_Xe.Text.ToString());
 

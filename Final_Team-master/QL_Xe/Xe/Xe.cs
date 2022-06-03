@@ -119,7 +119,7 @@ namespace QL_Xe.Xe
 
         public DataTable listXetoSelect(string loaiXe)
         {
-            SqlCommand command = new SqlCommand("SELECT * FROM Xe WHERE Loai_Xe = @loaiXe and Tinh_Trang = N'Chưa xác định' ", mydb.getConnection);
+            SqlCommand command = new SqlCommand("SELECT * FROM Xe WHERE Loai_Xe = @loaixe or Tinh_Trang = N'Chưa xác định' or Tinh_Trang = N'Đã trả' ", mydb.getConnection);
             command.Parameters.Add("@loaixe", SqlDbType.NVarChar).Value = loaiXe;
 
             SqlDataAdapter adapter = new SqlDataAdapter(command);

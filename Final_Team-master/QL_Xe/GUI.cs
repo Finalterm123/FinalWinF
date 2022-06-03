@@ -17,7 +17,7 @@ namespace QL_Xe
         {
             SqlCommand sqlCommand = new SqlCommand("insert into Gui(id_hdg, hinh_nguoi_gui, id_xe, id_vt, id_tho, id_dv, start_time, loai_hinh_gui, phi, phat, mo_ta) " +
                 " values (@idGui,@hinhngGui,@idXe,@idVT,@idTho,@idDV,@sd,@loaiGui,@phi,@phat,@mota)", _Xe.getConnection);
-            sqlCommand.Parameters.Add("@idGui",SqlDbType.Int).Value = idG;
+            sqlCommand.Parameters.Add("@idGui", SqlDbType.Int).Value = idG;
             sqlCommand.Parameters.Add("@hinhngGui", SqlDbType.Image).Value = Hinh_NgGui.ToArray();
             sqlCommand.Parameters.Add("@idXe", SqlDbType.Int).Value = idXe;
             sqlCommand.Parameters.Add("@idVT", SqlDbType.Int).Value = idVT;
@@ -64,7 +64,7 @@ namespace QL_Xe
 
         public DataTable getAllDaTra()
         {
-            SqlCommand sqlCommand = new SqlCommand("select ID_HDG,Hinh_Nguoi_Gui,Loai_Hinh_Gui,Start_Time,End_Time,Phi,Phat from Gui inner join Xe on Xe.ID_Xe = Gui.ID_Xe where Tinh_Trang = N'Đã trả'", _Xe.getConnection);
+            SqlCommand sqlCommand = new SqlCommand("select ID_HDG,Hinh_Nguoi_Gui,Loai_Xe,Loai_Hinh_Gui,Start_Time,End_Time,Phi,Phat from Gui inner join Xe on Xe.ID_Xe = Gui.ID_Xe where Tinh_Trang = N'Đã trả'", _Xe.getConnection);
 
             _Xe.openConnection();
             DataTable dataTable = new DataTable();
@@ -76,10 +76,40 @@ namespace QL_Xe
 
         }
 
+        public float getTotalChiphibyIdGui(int idG)
+        {
+            SqlCommand command = new SqlCommand("select SUM(Chi_Phi) from Gui inner join SD_Dich_Vu SDV on Gui.ID_DV = SDV.ID_DV inner join Chuyen_Mon CM on SDV.id_CM = CM.id_CM where ID_HDG = @idG", _Xe.getConnection);
+            command.Parameters.Add("@idG", SqlDbType.Int).Value = idG;
+
+            DataTable da = new DataTable();
+            SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(command);
+            sqlDataAdapter.Fill(da);
+            try
+            {
+
+                if (da == null) return 0;
+                else return (float)Convert.ToDouble(da.Rows[0][0]);
+
+            }
+            catch { return 0; }
+        }
+
         public bool updateEndTime(int idG)
         {
             SqlCommand command = new SqlCommand("UPDATE Gui SET End_Time = getdate() WHERE ID_HDG=@id", _Xe.getConnection);
             command.Parameters.Add("@id", SqlDbType.Int).Value = idG;
+
+            return check_command(command);
+
+
+        }
+
+        public bool updateIdDV(int idG, int idDV)
+        {
+            SqlCommand command = new SqlCommand("UPDATE Gui SET ID_DV = @idDV WHERE ID_HDG=@id", _Xe.getConnection);
+            command.Parameters.Add("@id", SqlDbType.Int).Value = idG;
+            command.Parameters.Add("@idDV", SqlDbType.Int).Value = idDV;
+
 
             return check_command(command);
 
@@ -94,13 +124,13 @@ namespace QL_Xe
             return result;
         }
 
-/*        public bool updateTTGuibyID(int ID_Xe)
-        {
-            SqlCommand command = new SqlCommand("UPDATE Gui SET Tinh_Trang=N'Đang gửi' WHERE ID_HDG=@ID_Xe", _Xe.getConnection);
-            command.Parameters.Add("@ID_Xe", SqlDbType.Int).Value = ID_Xe;
+        /*        public bool updateTTGuibyID(int ID_Xe)
+                {
+                    SqlCommand command = new SqlCommand("UPDATE Gui SET Tinh_Trang=N'Đang gửi' WHERE ID_HDG=@ID_Xe", _Xe.getConnection);
+                    command.Parameters.Add("@ID_Xe", SqlDbType.Int).Value = ID_Xe;
 
-            return check_command(command);
-        }*/
+                    return check_command(command);
+                }*/
 
 
     }

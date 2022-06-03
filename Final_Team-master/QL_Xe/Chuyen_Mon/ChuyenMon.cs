@@ -18,15 +18,17 @@ namespace QL_Xe.Chuyen_Mon
             mydb.closeConnection();
             return result;
         }
-        public bool insertCM(int ID_CM, string Ten_CM,int ID_CV, string Loai_xe, string Mo_Ta)
+        public bool insertCM(int ID_CM, string Ten_CM,int ID_CV, string Loai_xe, string Mo_Ta,float chiPhi)
         {
-            SqlCommand command = new SqlCommand("INSERT INTO Chuyen_Mon (ID_CM, Ten_CM,ID_CV,Loai_xe, Mo_Ta)" +
-                "VALUES (@ID_CM,@Ten_CM,@ID_CV,@Loai_xe, @Mo_Ta )", mydb.getConnection);
+            SqlCommand command = new SqlCommand("INSERT INTO Chuyen_Mon (ID_CM, Ten_CM,ID_CV,Loai_xe, Mo_Ta, Chi_Phi)" +
+                "VALUES (@ID_CM,@Ten_CM,@ID_CV,@Loai_xe, @Mo_Ta,@chiPhi )", mydb.getConnection);
             command.Parameters.Add("@ID_CM", SqlDbType.Int).Value = ID_CM;
             command.Parameters.Add("@ID_CV", SqlDbType.Int).Value = ID_CV;
             command.Parameters.Add("@Ten_CM", SqlDbType.NVarChar).Value = Ten_CM;
             command.Parameters.Add("@Loai_xe", SqlDbType.NVarChar).Value = Loai_xe;
             command.Parameters.Add("@Mo_Ta", SqlDbType.NVarChar).Value = Mo_Ta;
+            command.Parameters.Add("@chiPhi", SqlDbType.NVarChar).Value = chiPhi;
+
             return check_command(command);
         }
         public bool deleteCM(int ID_CM)

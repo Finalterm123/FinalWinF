@@ -64,5 +64,24 @@ namespace QL_Xe
             return dt;
         }
 
+        public DataTable getIdCM(int ID_DV)
+        {
+            SqlCommand cmd = new SqlCommand("select id_CM from SD_Dich_Vu where ID_DV = @ID_DV", _Xe.getConnection);
+            cmd.Parameters.Add("@ID_DV", SqlDbType.Int).Value = ID_DV;
+
+            DataTable dataTable = new DataTable();
+            SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(cmd);
+
+            
+            sqlDataAdapter.Fill(dataTable);
+
+            if (dataTable.Rows.Count == 0)
+            {
+                return null;
+            }
+
+            return dataTable;
+        }
+
     }
 }

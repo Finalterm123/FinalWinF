@@ -83,6 +83,7 @@ namespace QL_Xe.Chuyen_Mon
                 int id = Convert.ToInt32(textBox_ID.Text);
                 int ID_CV = Convert.ToInt32(comboBox_CV.SelectedValue);
                 string Loai_xe = comboBox_Loaixe.Text;
+                float chiPhi =(float) Convert.ToDouble(textBox_chiPhi.Text.ToString());
                 string Mo_Ta = textBox_Mo_Ta.Text;
                 if(ID_CV ==0)
                 {
@@ -91,7 +92,7 @@ namespace QL_Xe.Chuyen_Mon
                 }
                 if (chuyenMon.checkExistName(name) == true && chuyenMon.checkExistID(id) == true)
                 {
-                    if (chuyenMon.insertCM(id, name, ID_CV,Loai_xe, Mo_Ta))
+                    if (chuyenMon.insertCM(id, name, ID_CV,Loai_xe, Mo_Ta,chiPhi))
                     {
                         MessageBox.Show("Chuyên môn mới đã được thêm!!", "Thêm Chuyên môn!!", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         this.Close();

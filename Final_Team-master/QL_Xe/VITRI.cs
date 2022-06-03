@@ -34,6 +34,14 @@ namespace QL_Xe
             return check_command(command);
         }
 
+        public bool updateVTTrabyID(int ID_Xe)
+        {
+            SqlCommand command = new SqlCommand("UPDATE VT SET Tinh_Trang=0 WHERE ID_VT=@ID_Xe", _Xe.getConnection);
+            command.Parameters.Add("@ID_Xe", SqlDbType.Int).Value = ID_Xe;
+
+            return check_command(command);
+        }
+
         bool check_command(SqlCommand command)
         {
             _Xe.openConnection();
