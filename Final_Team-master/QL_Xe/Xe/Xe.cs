@@ -30,6 +30,23 @@ namespace QL_Xe.Xe
             command.Parameters.Add("@Tinh_Trang", SqlDbType.NVarChar).Value = Tinh_Trang;
             return check_command(command);
         }
+
+        public bool updateXeGuibyID(int ID_Xe)
+        {
+            SqlCommand command = new SqlCommand("UPDATE Xe SET Tinh_Trang=N'Đang gửi' WHERE ID_Xe=@ID_Xe", mydb.getConnection);
+            command.Parameters.Add("@ID_Xe", SqlDbType.Int).Value = ID_Xe;
+
+            return check_command(command);
+        }
+
+        public bool updateXeTrabyID(int ID_Xe)
+        {
+            SqlCommand command = new SqlCommand("UPDATE Xe SET Tinh_Trang=N'Đã trả' WHERE ID_Xe=@ID_Xe", mydb.getConnection);
+            command.Parameters.Add("@ID_Xe", SqlDbType.Int).Value = ID_Xe;
+
+            return check_command(command);
+        }
+
         public bool updateXebyID(int ID_Xe, string So_Bien_So, string Loai_Xe, MemoryStream Hinh, string Tinh_Trang)
         {
             SqlCommand command = new SqlCommand("UPDATE Xe SET So_Bien_So = @So_Bien_So, Loai_Xe = @Loai_Xe, Hinh = @Hinh, Tinh_Trang=@Tinh_Trang WHERE ID_Xe=@ID_Xe", mydb.getConnection);
@@ -102,7 +119,7 @@ namespace QL_Xe.Xe
 
         public DataTable listXetoSelect(string loaiXe)
         {
-            SqlCommand command = new SqlCommand("SELECT * FROM Xe WHERE Loai_Xe = @loaiXe", mydb.getConnection);
+            SqlCommand command = new SqlCommand("SELECT * FROM Xe WHERE Loai_Xe = @loaiXe and Tinh_Trang = N'Chưa xác định' ", mydb.getConnection);
             command.Parameters.Add("@loaixe", SqlDbType.NVarChar).Value = loaiXe;
 
             SqlDataAdapter adapter = new SqlDataAdapter(command);

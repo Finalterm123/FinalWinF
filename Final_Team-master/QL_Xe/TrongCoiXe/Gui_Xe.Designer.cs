@@ -57,7 +57,6 @@
             this.button_chonDV = new System.Windows.Forms.Button();
             this.button_Upload_Pic = new System.Windows.Forms.Button();
             this.pictureBox_ImageGui = new System.Windows.Forms.PictureBox();
-            this.textBox_Dichvu = new System.Windows.Forms.TextBox();
             this.comboBox_LoaiHinhGui = new System.Windows.Forms.ComboBox();
             this.button_Chon_VT = new System.Windows.Forms.Button();
             this.textBox_Mo_Ta = new System.Windows.Forms.TextBox();
@@ -75,6 +74,9 @@
             this.label1 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
             this.panel_Header = new System.Windows.Forms.Panel();
+            this.radioButton_yesDV = new System.Windows.Forms.RadioButton();
+            this.radioButton_noDV = new System.Windows.Forms.RadioButton();
+            this.button_CloseDV = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel7.SuspendLayout();
             this.panel6.SuspendLayout();
@@ -133,6 +135,7 @@
             // 
             // panel_DichVu
             // 
+            this.panel_DichVu.Controls.Add(this.button_CloseDV);
             this.panel_DichVu.Controls.Add(this.label_thongbaoDV);
             this.panel_DichVu.Controls.Add(this.button_selectDV);
             this.panel_DichVu.Controls.Add(this.dataGridView_chonDV);
@@ -361,11 +364,12 @@
             // panel8
             // 
             this.panel8.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.panel8.Controls.Add(this.radioButton_noDV);
+            this.panel8.Controls.Add(this.radioButton_yesDV);
             this.panel8.Controls.Add(this.button_Xong);
             this.panel8.Controls.Add(this.button_chonDV);
             this.panel8.Controls.Add(this.button_Upload_Pic);
             this.panel8.Controls.Add(this.pictureBox_ImageGui);
-            this.panel8.Controls.Add(this.textBox_Dichvu);
             this.panel8.Controls.Add(this.comboBox_LoaiHinhGui);
             this.panel8.Controls.Add(this.button_Chon_VT);
             this.panel8.Controls.Add(this.textBox_Mo_Ta);
@@ -423,13 +427,6 @@
             this.pictureBox_ImageGui.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox_ImageGui.TabIndex = 18;
             this.pictureBox_ImageGui.TabStop = false;
-            // 
-            // textBox_Dichvu
-            // 
-            this.textBox_Dichvu.Location = new System.Drawing.Point(14, 259);
-            this.textBox_Dichvu.Name = "textBox_Dichvu";
-            this.textBox_Dichvu.Size = new System.Drawing.Size(192, 32);
-            this.textBox_Dichvu.TabIndex = 14;
             // 
             // comboBox_LoaiHinhGui
             // 
@@ -595,6 +592,41 @@
             this.panel_Header.Size = new System.Drawing.Size(1014, 57);
             this.panel_Header.TabIndex = 0;
             // 
+            // radioButton_yesDV
+            // 
+            this.radioButton_yesDV.AutoSize = true;
+            this.radioButton_yesDV.Location = new System.Drawing.Point(14, 260);
+            this.radioButton_yesDV.Name = "radioButton_yesDV";
+            this.radioButton_yesDV.Size = new System.Drawing.Size(56, 28);
+            this.radioButton_yesDV.TabIndex = 27;
+            this.radioButton_yesDV.TabStop = true;
+            this.radioButton_yesDV.Text = "Có";
+            this.radioButton_yesDV.UseVisualStyleBackColor = true;
+            this.radioButton_yesDV.Click += new System.EventHandler(this.radioButton_yesDV_Click);
+            // 
+            // radioButton_noDV
+            // 
+            this.radioButton_noDV.AutoSize = true;
+            this.radioButton_noDV.Location = new System.Drawing.Point(111, 260);
+            this.radioButton_noDV.Name = "radioButton_noDV";
+            this.radioButton_noDV.Size = new System.Drawing.Size(95, 28);
+            this.radioButton_noDV.TabIndex = 28;
+            this.radioButton_noDV.TabStop = true;
+            this.radioButton_noDV.Text = "Không";
+            this.radioButton_noDV.UseVisualStyleBackColor = true;
+            this.radioButton_noDV.Click += new System.EventHandler(this.radioButton_noDV_Click);
+            // 
+            // button_CloseDV
+            // 
+            this.button_CloseDV.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button_CloseDV.Location = new System.Drawing.Point(461, 301);
+            this.button_CloseDV.Name = "button_CloseDV";
+            this.button_CloseDV.Size = new System.Drawing.Size(81, 39);
+            this.button_CloseDV.TabIndex = 27;
+            this.button_CloseDV.Text = "Xong";
+            this.button_CloseDV.UseVisualStyleBackColor = true;
+            this.button_CloseDV.Click += new System.EventHandler(this.button_CloseDV_Click);
+            // 
             // Gui_Xe
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -666,7 +698,6 @@
         private System.Windows.Forms.Panel panel_chonXe;
         private System.Windows.Forms.DataGridView dataGridView_chonXe;
         private System.Windows.Forms.PictureBox pictureBox_Xe;
-        private System.Windows.Forms.TextBox textBox_Dichvu;
         private System.Windows.Forms.ComboBox comboBox_LoaiHinhGui;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Button button_Upload_Pic;
@@ -683,5 +714,8 @@
         private System.Windows.Forms.Label label_thongbaoDV;
         private System.Windows.Forms.Button button_Xong;
         private System.Windows.Forms.Label label_IDxe;
+        private System.Windows.Forms.RadioButton radioButton_noDV;
+        private System.Windows.Forms.RadioButton radioButton_yesDV;
+        private System.Windows.Forms.Button button_CloseDV;
     }
 }

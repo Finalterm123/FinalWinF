@@ -22,7 +22,10 @@ namespace QL_Xe
             sqlCommand.Parameters.Add("@idXe", SqlDbType.Int).Value = idXe;
             sqlCommand.Parameters.Add("@idVT", SqlDbType.Int).Value = idVT;
             sqlCommand.Parameters.Add("@idTho", SqlDbType.Int).Value = idTho;
+
             sqlCommand.Parameters.Add("@idDV", SqlDbType.Int).Value = idDV;
+
+
             sqlCommand.Parameters.Add("@sd", SqlDbType.DateTime).Value = sd;
             //sqlCommand.Parameters.Add("@ed", SqlDbType.DateTime).Value = ed;
             sqlCommand.Parameters.Add("@loaiGui", SqlDbType.NVarChar).Value = loaihinhGui;
@@ -43,5 +46,62 @@ namespace QL_Xe
             }
 
         }
+
+        public DataTable getAllGui()
+        {
+            SqlCommand sqlCommand = new SqlCommand("select * from Gui inner join Xe on Xe.ID_Xe = Gui.ID_Xe " +
+                "where Tinh_Trang = N'Đang gửi'", _Xe.getConnection);
+
+            _Xe.openConnection();
+            DataTable dataTable = new DataTable();
+            SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(sqlCommand);
+            sqlDataAdapter.Fill(dataTable);
+
+            return dataTable;
+
+
+        }
+
+        public DataTable getAllDaTra()
+        {
+            SqlCommand sqlCommand = new SqlCommand("select ID_HDG,Hinh_Nguoi_Gui,Loai_Hinh_Gui,Start_Time,End_Time,Phi,Phat from Gui inner join Xe on Xe.ID_Xe = Gui.ID_Xe where Tinh_Trang = N'Đã trả'", _Xe.getConnection);
+
+            _Xe.openConnection();
+            DataTable dataTable = new DataTable();
+            SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(sqlCommand);
+            sqlDataAdapter.Fill(dataTable);
+
+            return dataTable;
+
+
+        }
+
+        public bool updateEndTime(int idG)
+        {
+            SqlCommand command = new SqlCommand("UPDATE Gui SET End_Time = getdate() WHERE ID_HDG=@id", _Xe.getConnection);
+            command.Parameters.Add("@id", SqlDbType.Int).Value = idG;
+
+            return check_command(command);
+
+
+        }
+
+        bool check_command(SqlCommand command)
+        {
+            _Xe.openConnection();
+            bool result = (command.ExecuteNonQuery() == 1);
+            _Xe.closeConnection();
+            return result;
+        }
+
+/*        public bool updateTTGuibyID(int ID_Xe)
+        {
+            SqlCommand command = new SqlCommand("UPDATE Gui SET Tinh_Trang=N'Đang gửi' WHERE ID_HDG=@ID_Xe", _Xe.getConnection);
+            command.Parameters.Add("@ID_Xe", SqlDbType.Int).Value = ID_Xe;
+
+            return check_command(command);
+        }*/
+
+
     }
 }
